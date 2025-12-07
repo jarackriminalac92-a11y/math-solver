@@ -1,0 +1,7 @@
+{
+  "name": "Uni Entrance Exam Bot",
+  "description": "Stop failing your math exams. A premium AI tutor that teaches you the exact steps to get full marks.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
